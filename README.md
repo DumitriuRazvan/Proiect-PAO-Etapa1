@@ -20,7 +20,8 @@ Interogare
 3. Adauga curier biciclist
 4. Adauga curier sofer
 5. Adauga restaurant
-7. Adauga Bar
-8. Calculeaza impozitul localului
-9. Afiseaza pret per comanda
-10. Afiseaza comenzi la localul resectiv
+6. Adauga Bar
+7. Calculeaza impozitul localului
+8. Afiseaza pret per comanda
+9. Afiseaza comenzi la localul respectiv
+10. Afiseaza curieri autorizati la localul respectiv
